@@ -1,0 +1,168 @@
+li{
+    list-style-type: none;
+}
+
+#gerüst{
+    width: 1280px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.navbar {
+    font-size: 20px;
+    line-height: 50px;
+    font-family: 'Mohave', sans-serif;
+
+}
+
+.navbar-brand {
+    position: static;
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+.nav-item{
+    font-size: medium;
+    color: white;
+}
+
+.navbar-nav > li {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.container {
+    position: center ;
+    font-size: 30px;
+    line-height: 40px;
+    font-family: 'Mohave', sans-serif;
+    color: white;
+}
+
+header {
+    width: 1280px;
+    height: 50px;
+    background: lightgrey;
+}
+
+section {
+    width: 1280px;
+    height: 500px;
+    float: left;
+}
+
+
+footer {
+    width: 1280px;
+    height: 250px;
+    clear: both;
+    background: lightpink;
+}
+
+#logo {
+    color: hotpink;
+    font-size: xx-large;
+}
+
+
+
+.col-lg-4 {
+    position: center;
+}
+
+.row-align-items-center{
+    position: center;
+}
+
+.dreier-container {
+    position: center;
+    text-align: center;
+}
+
+.dreier-columns {
+    position: center;
+    text-align: center;
+}
+
+.footer-clean {
+    padding: 50px 0;
+    background-color: #fff;
+    color: white;
+    position: center;
+}
+
+.footer-clean h1 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.footer-clean h2 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.footer-clean h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.footer-clean ul {
+    padding: 0;
+    line-height: 1.6;
+    font-size: 14px;
+    margin-bottom: 0;
+    color: #ffffff;
+}
+
+.footer-clean ul a {
+    color: inherit;
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.footer-clean .socialmediaicons {
+    position: center;
+}
+
+.footer-clean .socialmediaicons > a {
+    font-size: 75px;
+    width: 60px;
+    height: 60px;
+    line-height: 40px;
+    display: inline-block;
+    text-align: center;
+    position: center;
+    margin-top: 22px;
+    color: inherit;
+    opacity: 0.75;
+}
+
+.footer-clean .socialmediaicons> a:hover {
+    opacity: 0.9;
+}
+
+#items{
+    font-size: 50px;
+    opacity: 0.9;
+}
+
+.lead{
+    margin-left: 180px;
+    margin-top: 200px;
+    position: center;
+    font-weight: bold;
+    color: deeppink;
+}
+
+.w3-container, w3-teal {
+    height: 10vh;
+}
