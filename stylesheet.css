@@ -3,27 +3,38 @@ li{
 }
 
 #gerüst{
-    width: 1280px;
+    width: 100%;
     margin-right: auto;
     margin-left: auto;
 }
 
-.navbar {
+.navbar{
     font-size: 20px;
     line-height: 50px;
-    font-family: 'Mohave', sans-serif;
-
+    font-family: 'Montserrat', sans-serif;
 }
 
-.navbar-brand {
+.navbar-brand{
     position: static;
     font-size: 40px;
     margin-left: 10px;
 }
 
+#logo {
+    color: steelblue;
+    font-size: xxx-large;
+    font-weight: bold;
+    font-family: 'Mohave', sans-serif;
+
+}
+.nav-link {
+    font-size: 18px;
+    color: dimgrey;
+    font-weight: bold;
+
+}
 .nav-item{
-    font-size: medium;
-    color: white;
+    font-size: x-large;
 }
 
 .navbar-nav > li {
@@ -31,11 +42,21 @@ li{
     padding-right: 40px;
 }
 
+.bi-heart{
+    font-size: xx-large;
+    color: steelblue;
+}
+
+.bi-person-circle{
+    font-size: xx-large;
+    color: steelblue;
+}
+
 .container {
     position: center ;
     font-size: 30px;
     line-height: 40px;
-    font-family: 'Mohave', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: white;
 }
 
@@ -56,17 +77,10 @@ footer {
     width: 1280px;
     height: 250px;
     clear: both;
-    background: lightpink;
+    background: lightgrey;
 }
 
-#logo {
-    color: hotpink;
-    font-size: xx-large;
-}
-
-
-
-.col-lg-4 {
+.col {
     position: center;
 }
 
@@ -153,6 +167,7 @@ footer {
 #items{
     font-size: 50px;
     opacity: 0.9;
+
 }
 
 .lead{
@@ -160,9 +175,31 @@ footer {
     margin-top: 200px;
     position: center;
     font-weight: bold;
-    color: deeppink;
+    color: midnightblue;
 }
 
-.w3-container, w3-teal {
-    height: 10vh;
+.container-fluid {
+    width: 100%;
 }
+
+.bi-youtube{
+    font-size: xxx-large;
+}
+
+.bi-instagram{
+    font-size: xxx-large;
+}
+
+.bi-twitter{
+    font-size: xxx-large;
+}
+
+.bi-facebook{
+    font-size: xxx-large;
+}
+
+.fünfer-column socialmediaicons{
+    margin-right: auto;
+}
+
+
